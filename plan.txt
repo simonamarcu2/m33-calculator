@@ -1,0 +1,18 @@
+Calc To-Do List
+
+Requierements:
+
+- Display
+- 0-9 Number buttons
+- +/*/-/ Operator Buttons
+- Clear Button
+- Equal Button
+
+
+Components:
+- Display V
+- Button x16
+
+React bits:
+- State for total V
+-Maths.js pkg
